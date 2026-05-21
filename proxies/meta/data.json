@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-20T06:14:07Z",
+  "timestamp": "2026-05-21T06:14:07Z",
   "source": {
     "api_base": "https://api.socks5proxies.com",
     "site_url": "https://socks5proxies.com"
@@ -13,19 +13,17 @@
       "socks5": 0
     },
     "countries": {
-      "AM": 3,
-      "CA": 4,
-      "CH": 2,
-      "CY": 1,
-      "ES": 3,
-      "FR": 5,
-      "GB": 3,
-      "KZ": 2,
-      "NL": 19,
-      "RO": 3,
-      "SC": 1,
-      "SG": 1,
-      "US": 41,
+      "AM": 8,
+      "CA": 5,
+      "CH": 1,
+      "ES": 1,
+      "FR": 1,
+      "GB": 4,
+      "KZ": 4,
+      "LT": 1,
+      "NL": 17,
+      "RO": 2,
+      "US": 44,
       "ZZ": 12
     }
   },
@@ -73,11 +71,6 @@
         "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/CH/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/CH/data.csv"
       },
-      "CY": {
-        "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/CY/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/CY/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/CY/data.csv"
-      },
       "ES": {
         "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/ES/data.json",
         "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/ES/data.txt",
@@ -98,6 +91,11 @@
         "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/KZ/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/KZ/data.csv"
       },
+      "LT": {
+        "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/LT/data.json",
+        "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/LT/data.txt",
+        "csv": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/LT/data.csv"
+      },
       "NL": {
         "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/NL/data.json",
         "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/NL/data.txt",
@@ -107,16 +105,6 @@
         "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/RO/data.json",
         "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/RO/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/RO/data.csv"
-      },
-      "SC": {
-        "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/SC/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/SC/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/SC/data.csv"
-      },
-      "SG": {
-        "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/SG/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/SG/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/SG/data.csv"
       },
       "US": {
         "json": "https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/US/data.json",
