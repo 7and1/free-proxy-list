@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "45.67.215.203",
-      "ip": "45.67.215.203",
+      "host": "45.8.211.113",
+      "ip": "45.8.211.113",
       "port": 80,
       "delay": 20,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "checks_up": 4913,
-      "checks_down": 1307,
+      "checks_up": 8774,
+      "checks_down": 1276,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,50 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 78,
-      "last_seen": "2026-06-01T07:17:03Z"
+      "uptime": 87,
+      "last_seen": "2026-06-02T06:48:04Z"
+    },
+    {
+      "host": "185.148.107.58",
+      "ip": "185.148.107.58",
+      "port": 80,
+      "delay": 20,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "checks_up": 1644,
+      "checks_down": 1265,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 56,
+      "last_seen": "2026-06-02T06:48:03Z"
+    },
+    {
+      "host": "188.191.165.159",
+      "ip": "188.191.165.159",
+      "port": 8080,
+      "delay": 540,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "checks_up": 131,
+      "checks_down": 21,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 86,
+      "last_seen": "2026-06-02T06:47:05Z"
     }
   ]
 }

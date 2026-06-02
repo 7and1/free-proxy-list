@@ -1,26 +1,46 @@
 {
   "data": [
     {
-      "host": "171.25.158.95",
-      "ip": "171.25.158.95",
-      "port": 1080,
-      "delay": 1220,
+      "host": "185.146.173.59",
+      "ip": "185.146.173.59",
+      "port": 80,
+      "delay": 20,
       "country_code": "SE",
       "country_name": "Sweden",
-      "city": "Vaxjo",
-      "checks_up": 195,
-      "checks_down": 18,
-      "anon": 4,
-      "http": 0,
+      "checks_up": 4766,
+      "checks_down": 1186,
+      "anon": 3,
+      "http": 1,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 1,
+      "socks5": 0,
       "protocols": [
-        "SOCKS5"
+        "HTTP"
       ],
-      "anonymity_level": "Elite",
-      "uptime": 91,
-      "last_seen": "2026-06-01T07:18:04Z"
+      "anonymity_level": "Anonymous",
+      "uptime": 80,
+      "last_seen": "2026-06-02T06:48:04Z"
+    },
+    {
+      "host": "185.146.173.43",
+      "ip": "185.146.173.43",
+      "port": 80,
+      "delay": 20,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 246,
+      "checks_down": 43,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 85,
+      "last_seen": "2026-06-02T06:48:03Z"
     }
   ]
 }
