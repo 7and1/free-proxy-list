@@ -1,3 +1,48 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "199.116.114.11",
+      "ip": "199.116.114.11",
+      "port": 4145,
+      "delay": 260,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 23153,
+      "checks_down": 9119,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 71,
+      "last_seen": "2026-06-03T06:57:04Z"
+    },
+    {
+      "host": "142.54.237.34",
+      "ip": "142.54.237.34",
+      "port": 4145,
+      "delay": 260,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 22323,
+      "checks_down": 12411,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 64,
+      "last_seen": "2026-06-03T06:57:03Z"
+    }
+  ]
 }
