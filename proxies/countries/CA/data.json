@@ -1,15 +1,14 @@
 {
   "data": [
     {
-      "host": "45.67.215.170",
-      "ip": "45.67.215.170",
+      "host": "23.227.38.210",
+      "ip": "23.227.38.210",
       "port": 80,
-      "delay": 20,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "city": "Novosibirsk",
-      "checks_up": 175,
-      "checks_down": 0,
+      "delay": 0,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 14408,
+      "checks_down": 1259,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,18 +18,17 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
+      "uptime": 91,
       "last_seen": "2026-06-06T05:54:03Z"
     },
     {
-      "host": "45.67.215.231",
-      "ip": "45.67.215.231",
+      "host": "23.227.60.254",
+      "ip": "23.227.60.254",
       "port": 80,
-      "delay": 40,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "city": "Novosibirsk",
-      "checks_up": 170,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 235,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -42,17 +40,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-06-06T05:54:01Z"
+      "last_seen": "2026-06-06T05:53:05Z"
     },
     {
-      "host": "185.148.107.240",
-      "ip": "185.148.107.240",
+      "host": "23.227.60.72",
+      "ip": "23.227.60.72",
       "port": 80,
       "delay": 20,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "checks_up": 379,
-      "checks_down": 76,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 277,
+      "checks_down": 50,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -62,7 +60,7 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 83,
+      "uptime": 84,
       "last_seen": "2026-06-06T05:53:03Z"
     }
   ]
