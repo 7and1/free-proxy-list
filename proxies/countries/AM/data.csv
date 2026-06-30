@@ -1,10 +1,6 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.162.229.49,80,AM,Armenia,,,,,,HTTP,Anonymous,91,0,2026-06-29T06:57:04Z
-185.162.228.203,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-29T06:56:04Z
-185.162.229.101,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-29T06:56:04Z
-185.162.228.81,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-29T06:56:04Z
-185.162.231.106,80,AM,Armenia,,,,,,HTTP,Anonymous,92,20,2026-06-29T06:56:02Z
-185.162.229.155,80,AM,Armenia,,,,,,HTTP,Anonymous,91,20,2026-06-29T06:56:02Z
-185.162.231.149,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-29T06:56:02Z
-185.162.231.154,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-29T06:56:02Z
-185.162.228.224,80,AM,Armenia,,,,,,HTTP,Anonymous,91,0,2026-06-29T06:55:03Z
+185.162.231.216,80,AM,Armenia,,,,,,HTTP,Anonymous,90,0,2026-06-30T06:16:03Z
+185.162.230.109,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-30T06:16:03Z
+185.162.229.121,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-30T06:16:01Z
+185.162.228.33,80,AM,Armenia,,,,,,HTTP,Anonymous,90,20,2026-06-30T06:16:01Z
+185.162.228.83,80,AM,Armenia,,,,,,HTTP,Anonymous,91,20,2026-06-30T06:15:03Z
