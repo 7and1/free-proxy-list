@@ -1,34 +1,13 @@
 {
   "data": [
     {
-      "host": "185.238.228.211",
-      "ip": "185.238.228.211",
+      "host": "185.238.228.122",
+      "ip": "185.238.228.122",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11990,
-      "checks_down": 1347,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-08T05:26:05Z"
-    },
-    {
-      "host": "185.238.228.129",
-      "ip": "185.238.228.129",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ES",
-      "country_name": "Spain",
-      "checks_up": 12600,
+      "checks_up": 12645,
       "checks_down": 1354,
       "anon": 3,
       "http": 1,
@@ -40,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-08T05:26:05Z"
+      "last_seen": "2026-07-09T06:22:03Z"
     },
     {
-      "host": "185.238.228.181",
-      "ip": "185.238.228.181",
+      "host": "185.238.228.92",
+      "ip": "185.238.228.92",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11954,
-      "checks_down": 1352,
+      "checks_up": 11990,
+      "checks_down": 1349,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,28 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-07-08T05:26:04Z"
-    },
-    {
-      "host": "185.238.228.245",
-      "ip": "185.238.228.245",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ES",
-      "country_name": "Spain",
-      "checks_up": 11930,
-      "checks_down": 1364,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-08T05:26:03Z"
+      "last_seen": "2026-07-09T06:22:03Z"
     }
   ]
 }

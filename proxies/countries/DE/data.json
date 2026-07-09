@@ -1,29 +1,6 @@
 {
   "data": [
     {
-      "host": "92.118.112.25",
-      "ip": "92.118.112.25",
-      "port": 1081,
-      "delay": 2440,
-      "country_code": "US",
-      "country_name": "United States",
-      "city": "Atlanta",
-      "checks_up": 253,
-      "checks_down": 90,
-      "anon": 4,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "HTTP",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 73,
-      "last_seen": "2026-07-09T06:22:23Z"
-    },
-    {
       "host": "89.168.67.102",
       "ip": "89.168.67.102",
       "port": 1080,
