@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "89.168.67.102",
-      "ip": "89.168.67.102",
-      "port": 1080,
-      "delay": 4980,
+      "host": "157.90.183.51",
+      "ip": "157.90.183.51",
+      "port": 5555,
+      "delay": 740,
       "country_code": "DE",
       "country_name": "Germany",
-      "city": "Frankfurt am Main",
-      "checks_up": 21,
-      "checks_down": 65,
+      "city": "Falkenstein",
+      "checks_up": 252,
+      "checks_down": 0,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -19,8 +19,8 @@
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 24,
-      "last_seen": "2026-07-09T06:22:22Z"
+      "uptime": 100,
+      "last_seen": "2026-07-10T06:05:06Z"
     }
   ]
 }
