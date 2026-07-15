@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "host": "125.209.108.83",
+      "ip": "125.209.108.83",
+      "port": 3128,
+      "delay": 1500,
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "checks_up": 340,
+      "checks_down": 44,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 88,
+      "last_seen": "2026-07-15T04:59:36Z"
+    },
+    {
+      "host": "103.157.200.126",
+      "ip": "103.157.200.126",
+      "port": 3128,
+      "delay": 1260,
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "checks_up": 155,
+      "checks_down": 144,
+      "anon": 3,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 51,
+      "last_seen": "2026-07-15T04:59:35Z"
+    }
+  ]
+}

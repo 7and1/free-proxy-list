@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+87.247.174.160,2080,IR,Iran,,,,,,HTTP|HTTPS,Elite,14,1560,2026-07-15T04:59:37Z

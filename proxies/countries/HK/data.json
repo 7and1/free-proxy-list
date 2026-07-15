@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "host": "43.161.239.147",
+      "ip": "43.161.239.147",
+      "port": 8888,
+      "delay": 1880,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Hong Kong",
+      "checks_up": 272,
+      "checks_down": 163,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 62,
+      "last_seen": "2026-07-15T04:59:43Z"
+    },
+    {
+      "host": "43.161.239.147",
+      "ip": "43.161.239.147",
+      "port": 11090,
+      "delay": 1880,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Hong Kong",
+      "checks_up": 162,
+      "checks_down": 136,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 54,
+      "last_seen": "2026-07-15T04:59:40Z"
+    },
+    {
+      "host": "43.99.100.108",
+      "ip": "43.99.100.108",
+      "port": 3128,
+      "delay": 1080,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Hong Kong",
+      "checks_up": 196,
+      "checks_down": 7,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 96,
+      "last_seen": "2026-07-15T04:59:35Z"
+    }
+  ]
+}

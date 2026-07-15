@@ -1,26 +1,26 @@
 {
   "data": [
     {
-      "host": "27.34.242.98",
-      "ip": "27.34.242.98",
-      "port": 80,
-      "delay": 1160,
+      "host": "117.236.124.166",
+      "ip": "117.236.124.166",
+      "port": 3128,
+      "delay": 940,
       "country_code": "IN",
       "country_name": "India",
-      "city": "Bengaluru",
-      "checks_up": 2570,
-      "checks_down": 328,
-      "anon": 2,
+      "checks_up": 642,
+      "checks_down": 59,
+      "anon": 4,
       "http": 1,
-      "ssl": 0,
+      "ssl": 1,
       "socks4": 0,
       "socks5": 0,
       "protocols": [
-        "HTTP"
+        "HTTP",
+        "HTTPS"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-07-14T05:02:07Z"
+      "anonymity_level": "Elite",
+      "uptime": 91,
+      "last_seen": "2026-07-15T04:59:35Z"
     }
   ]
 }
