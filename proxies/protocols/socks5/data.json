@@ -1,26 +1,3 @@
 {
-  "data": [
-    {
-      "host": "199.189.255.230",
-      "ip": "199.189.255.230",
-      "port": 1080,
-      "delay": 5020,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 57,
-      "checks_down": 63,
-      "anon": 4,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "HTTP",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 47,
-      "last_seen": "2026-07-15T04:59:50Z"
-    }
-  ]
+  "data": []
 }

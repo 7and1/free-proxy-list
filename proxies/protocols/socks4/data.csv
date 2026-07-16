@@ -1,2 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-62.133.62.12,1081,FR,France,Paris,,,,,SOCKS4,Elite,65,4520,2026-07-15T04:59:49Z

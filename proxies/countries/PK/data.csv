@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-125.209.108.83,3128,PK,Pakistan,,,,,,HTTPS,Elite,88,1500,2026-07-15T04:59:36Z
-103.157.200.126,3128,PK,Pakistan,,,,,,HTTP|HTTPS,Anonymous,51,1260,2026-07-15T04:59:35Z

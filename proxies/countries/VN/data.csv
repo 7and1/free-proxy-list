@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-113.176.92.71,3128,VN,Vietnam,Bien Hoa,,,,,HTTP|HTTPS,Anonymous,33,1340,2026-07-15T04:59:36Z
-113.160.132.26,8080,VN,Vietnam,Bac Ninh,,,,,HTTP|HTTPS,Elite,89,1200,2026-07-15T04:59:35Z

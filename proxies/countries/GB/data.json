@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.193.31.253",
-      "ip": "185.193.31.253",
+      "host": "185.193.29.124",
+      "ip": "185.193.29.124",
       "port": 80,
-      "delay": 40,
+      "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 2533,
-      "checks_down": 1254,
+      "checks_up": 2504,
+      "checks_down": 1244,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,70 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 66,
-      "last_seen": "2026-07-15T05:02:03Z"
-    },
-    {
-      "host": "185.193.29.82",
-      "ip": "185.193.29.82",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 734,
-      "checks_down": 65,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-07-15T05:02:03Z"
-    },
-    {
-      "host": "185.170.166.10",
-      "ip": "185.170.166.10",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 9150,
-      "checks_down": 1277,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-15T05:01:02Z"
-    },
-    {
-      "host": "185.170.166.60",
-      "ip": "185.170.166.60",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 9068,
-      "checks_down": 1294,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-15T05:01:01Z"
+      "last_seen": "2026-07-16T05:09:04Z"
     }
   ]
 }
