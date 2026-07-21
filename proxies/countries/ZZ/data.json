@@ -1,35 +1,14 @@
 {
   "data": [
     {
-      "host": "183.109.79.187",
-      "ip": "183.109.79.187",
+      "host": "172.64.33.108",
+      "ip": "172.64.33.108",
       "port": 80,
-      "delay": 720,
+      "delay": 20,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 3778,
-      "checks_down": 3146,
-      "anon": 4,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 54,
-      "last_seen": "2026-07-20T05:42:06Z"
-    },
-    {
-      "host": "172.67.91.36",
-      "ip": "172.67.91.36",
-      "port": 80,
-      "delay": 0,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 2617,
-      "checks_down": 1146,
+      "checks_up": 3952,
+      "checks_down": 1189,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -39,18 +18,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 69,
-      "last_seen": "2026-07-20T05:42:04Z"
+      "uptime": 76,
+      "last_seen": "2026-07-21T05:22:05Z"
     },
     {
-      "host": "188.114.99.97",
-      "ip": "188.114.99.97",
+      "host": "173.245.59.116",
+      "ip": "173.245.59.116",
       "port": 80,
-      "delay": 0,
+      "delay": 20,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 4007,
-      "checks_down": 1194,
+      "checks_up": 492,
+      "checks_down": 1,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -60,17 +39,38 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 77,
-      "last_seen": "2026-07-20T05:42:04Z"
+      "uptime": 99,
+      "last_seen": "2026-07-21T05:22:05Z"
     },
     {
-      "host": "172.67.168.234",
-      "ip": "172.67.168.234",
+      "host": "188.114.96.232",
+      "ip": "188.114.96.232",
       "port": 80,
       "delay": 0,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 4020,
+      "checks_up": 3885,
+      "checks_down": 1181,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 76,
+      "last_seen": "2026-07-21T05:22:03Z"
+    },
+    {
+      "host": "108.162.193.107",
+      "ip": "108.162.193.107",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 3665,
       "checks_down": 1197,
       "anon": 3,
       "http": 1,
@@ -81,80 +81,17 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 77,
-      "last_seen": "2026-07-20T05:42:04Z"
+      "uptime": 75,
+      "last_seen": "2026-07-21T05:22:03Z"
     },
     {
-      "host": "141.101.115.203",
-      "ip": "141.101.115.203",
+      "host": "188.114.99.252",
+      "ip": "188.114.99.252",
       "port": 80,
       "delay": 0,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 632,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-20T05:42:04Z"
-    },
-    {
-      "host": "108.162.198.208",
-      "ip": "108.162.198.208",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 389,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-20T05:42:04Z"
-    },
-    {
-      "host": "141.101.113.139",
-      "ip": "141.101.113.139",
-      "port": 80,
-      "delay": 0,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 389,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-20T05:42:04Z"
-    },
-    {
-      "host": "141.101.121.207",
-      "ip": "141.101.121.207",
-      "port": 80,
-      "delay": 0,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 10943,
+      "checks_up": 3834,
       "checks_down": 1182,
       "anon": 3,
       "http": 1,
@@ -165,18 +102,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-20T05:42:03Z"
+      "uptime": 76,
+      "last_seen": "2026-07-21T05:22:03Z"
     },
     {
-      "host": "141.101.121.90",
-      "ip": "141.101.121.90",
+      "host": "141.101.123.21",
+      "ip": "141.101.123.21",
       "port": 80,
       "delay": 0,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 10966,
-      "checks_down": 1155,
+      "checks_up": 22476,
+      "checks_down": 1262,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -186,18 +123,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-20T05:42:03Z"
+      "uptime": 94,
+      "last_seen": "2026-07-21T05:22:03Z"
     },
     {
-      "host": "108.162.193.70",
-      "ip": "108.162.193.70",
+      "host": "8.35.211.49",
+      "ip": "8.35.211.49",
       "port": 80,
       "delay": 20,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 4354,
-      "checks_down": 1184,
+      "checks_up": 392,
+      "checks_down": 1,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -207,17 +144,38 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 78,
-      "last_seen": "2026-07-20T05:42:03Z"
+      "uptime": 99,
+      "last_seen": "2026-07-21T05:22:03Z"
     },
     {
-      "host": "172.67.134.75",
-      "ip": "172.67.134.75",
+      "host": "8.35.211.5",
+      "ip": "8.35.211.5",
       "port": 80,
       "delay": 20,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 2295,
+      "checks_up": 395,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-21T05:22:03Z"
+    },
+    {
+      "host": "173.245.58.55",
+      "ip": "173.245.58.55",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 3764,
       "checks_down": 1171,
       "anon": 3,
       "http": 1,
@@ -228,186 +186,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 66,
-      "last_seen": "2026-07-20T05:42:03Z"
+      "uptime": 76,
+      "last_seen": "2026-07-21T05:22:02Z"
     },
     {
-      "host": "141.101.123.184",
-      "ip": "141.101.123.184",
-      "port": 80,
-      "delay": 0,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 9730,
-      "checks_down": 1187,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-20T05:42:03Z"
-    },
-    {
-      "host": "141.101.123.82",
-      "ip": "141.101.123.82",
-      "port": 80,
-      "delay": 0,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 11040,
-      "checks_down": 1148,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-20T05:42:03Z"
-    },
-    {
-      "host": "141.101.120.120",
-      "ip": "141.101.120.120",
-      "port": 80,
-      "delay": 0,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 11009,
-      "checks_down": 1174,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-20T05:42:03Z"
-    },
-    {
-      "host": "172.67.165.161",
-      "ip": "172.67.165.161",
+      "host": "172.66.0.157",
+      "ip": "172.66.0.157",
       "port": 80,
       "delay": 20,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 133,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-20T05:42:03Z"
-    },
-    {
-      "host": "172.67.85.85",
-      "ip": "172.67.85.85",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 2610,
-      "checks_down": 1144,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 69,
-      "last_seen": "2026-07-20T05:42:02Z"
-    },
-    {
-      "host": "172.67.79.183",
-      "ip": "172.67.79.183",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 134,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-20T05:42:02Z"
-    },
-    {
-      "host": "172.67.171.78",
-      "ip": "172.67.171.78",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 132,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-20T05:42:02Z"
-    },
-    {
-      "host": "172.67.204.95",
-      "ip": "172.67.204.95",
-      "port": 80,
-      "delay": 0,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 2288,
-      "checks_down": 1146,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 66,
-      "last_seen": "2026-07-20T05:41:05Z"
-    },
-    {
-      "host": "108.162.193.171",
-      "ip": "108.162.193.171",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 4335,
-      "checks_down": 1209,
+      "checks_up": 4239,
+      "checks_down": 1177,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -418,7 +208,91 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 78,
-      "last_seen": "2026-07-20T05:41:04Z"
+      "last_seen": "2026-07-21T05:22:02Z"
+    },
+    {
+      "host": "172.67.230.38",
+      "ip": "172.67.230.38",
+      "port": 80,
+      "delay": 0,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 588,
+      "checks_down": 57,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-07-21T05:22:02Z"
+    },
+    {
+      "host": "108.162.198.99",
+      "ip": "108.162.198.99",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 394,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-21T05:22:02Z"
+    },
+    {
+      "host": "172.67.150.218",
+      "ip": "172.67.150.218",
+      "port": 80,
+      "delay": 0,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 139,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-21T05:22:02Z"
+    },
+    {
+      "host": "172.67.119.174",
+      "ip": "172.67.119.174",
+      "port": 80,
+      "delay": 0,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 139,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-21T05:22:02Z"
     }
   ]
 }
