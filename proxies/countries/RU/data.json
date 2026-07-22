@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "185.148.104.142",
-      "ip": "185.148.104.142",
+      "host": "45.8.211.26",
+      "ip": "45.8.211.26",
       "port": 80,
       "delay": 20,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "checks_up": 150,
+      "checks_up": 141,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,28 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-21T05:22:05Z"
-    },
-    {
-      "host": "45.8.211.110",
-      "ip": "45.8.211.110",
-      "port": 80,
-      "delay": 20,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "checks_up": 9222,
-      "checks_down": 1287,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-21T05:22:03Z"
+      "last_seen": "2026-07-22T05:22:03Z"
     }
   ]
 }

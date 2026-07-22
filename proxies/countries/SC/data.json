@@ -1,8 +1,8 @@
 {
   "data": [
     {
-      "host": "154.83.2.182",
-      "ip": "154.83.2.182",
+      "host": "154.197.75.144",
+      "ip": "154.197.75.144",
       "port": 80,
       "delay": 20,
       "country_code": "SC",
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-21T05:22:05Z"
+      "last_seen": "2026-07-22T05:22:03Z"
     }
   ]
 }

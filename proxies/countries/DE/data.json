@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "45.80.111.149",
-      "ip": "45.80.111.149",
+      "host": "45.80.111.115",
+      "ip": "45.80.111.115",
       "port": 80,
       "delay": 20,
       "country_code": "DE",
       "country_name": "Germany",
-      "checks_up": 184,
+      "checks_up": 141,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,50 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-21T05:22:03Z"
-    },
-    {
-      "host": "45.80.111.52",
-      "ip": "45.80.111.52",
-      "port": 80,
-      "delay": 20,
-      "country_code": "DE",
-      "country_name": "Germany",
-      "checks_up": 588,
-      "checks_down": 412,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 58,
-      "last_seen": "2026-07-21T05:22:02Z"
-    },
-    {
-      "host": "128.140.113.110",
-      "ip": "128.140.113.110",
-      "port": 999,
-      "delay": 360,
-      "country_code": "DE",
-      "country_name": "Germany",
-      "city": "Falkenstein",
-      "checks_up": 2069,
-      "checks_down": 2041,
-      "anon": 4,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 50,
-      "last_seen": "2026-07-21T05:21:13Z"
+      "last_seen": "2026-07-22T05:22:03Z"
     }
   ]
 }

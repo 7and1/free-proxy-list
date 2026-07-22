@@ -1,13 +1,34 @@
 {
   "data": [
     {
-      "host": "185.170.166.201",
-      "ip": "185.170.166.201",
+      "host": "185.170.166.35",
+      "ip": "185.170.166.35",
       "port": 80,
-      "delay": 20,
+      "delay": 40,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 479,
+      "checks_up": 9266,
+      "checks_down": 1256,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 88,
+      "last_seen": "2026-07-22T05:22:01Z"
+    },
+    {
+      "host": "185.193.31.238",
+      "ip": "185.193.31.238",
+      "port": 80,
+      "delay": 40,
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "checks_up": 284,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,17 +40,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-21T05:22:03Z"
+      "last_seen": "2026-07-22T05:22:01Z"
     },
     {
-      "host": "164.38.155.46",
-      "ip": "164.38.155.46",
+      "host": "185.193.31.124",
+      "ip": "185.193.31.124",
       "port": 80,
-      "delay": 20,
+      "delay": 40,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 8782,
-      "checks_down": 1278,
+      "checks_up": 150,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -39,18 +60,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-21T05:22:02Z"
+      "uptime": 100,
+      "last_seen": "2026-07-22T05:22:01Z"
     },
     {
-      "host": "185.170.166.91",
-      "ip": "185.170.166.91",
+      "host": "194.36.55.150",
+      "ip": "194.36.55.150",
       "port": 80,
-      "delay": 20,
+      "delay": 40,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 9241,
-      "checks_down": 1272,
+      "checks_up": 147,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -60,8 +81,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-21T05:22:02Z"
+      "uptime": 100,
+      "last_seen": "2026-07-22T05:22:01Z"
     }
   ]
 }

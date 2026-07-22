@@ -1,4 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.80.111.149,80,DE,Germany,,,,,,HTTP,Anonymous,100,20,2026-07-21T05:22:03Z
-45.80.111.52,80,DE,Germany,,,,,,HTTP,Anonymous,58,20,2026-07-21T05:22:02Z
-128.140.113.110,999,DE,Germany,Falkenstein,,,,,HTTP,Elite,50,360,2026-07-21T05:21:13Z
+45.80.111.115,80,DE,Germany,,,,,,HTTP,Anonymous,100,20,2026-07-22T05:22:03Z
