@@ -1,34 +1,14 @@
 {
   "data": [
     {
-      "host": "154.83.2.48",
-      "ip": "154.83.2.48",
+      "host": "185.176.26.197",
+      "ip": "185.176.26.197",
       "port": 80,
       "delay": 20,
-      "country_code": "SC",
-      "country_name": "Seychelles",
-      "checks_up": 4678,
-      "checks_down": 1249,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 78,
-      "last_seen": "2026-07-27T05:52:03Z"
-    },
-    {
-      "host": "154.197.75.206",
-      "ip": "154.197.75.206",
-      "port": 80,
-      "delay": 20,
-      "country_code": "SC",
-      "country_name": "Seychelles",
-      "checks_up": 572,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "city": "Almaty",
+      "checks_up": 769,
       "checks_down": 50,
       "anon": 3,
       "http": 1,
@@ -39,7 +19,29 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
+      "uptime": 93,
+      "last_seen": "2026-07-27T05:52:03Z"
+    },
+    {
+      "host": "185.176.26.94",
+      "ip": "185.176.26.94",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "city": "Almaty",
+      "checks_up": 842,
+      "checks_down": 68,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 92,
       "last_seen": "2026-07-27T05:52:03Z"
     }
   ]
