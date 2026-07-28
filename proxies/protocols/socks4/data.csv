@@ -1,4 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-112.28.149.152,8443,CN,China,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,85,1420,2026-07-27T05:52:11Z
-98.191.0.47,4145,US,United States,Tempe,,,,,SOCKS4|SOCKS5,Elite,92,400,2026-07-27T05:52:05Z
-199.66.183.251,4145,US,United States,Jonesboro,,,,,SOCKS4|SOCKS5,Elite,100,400,2026-07-27T05:52:05Z
