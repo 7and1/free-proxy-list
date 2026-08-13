@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "host": "212.183.88.249",
+      "ip": "212.183.88.249",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AT",
+      "country_name": "Austria",
+      "city": "Vienna",
+      "checks_up": 506,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-13T04:12:05Z"
+    },
+    {
+      "host": "212.183.88.10",
+      "ip": "212.183.88.10",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AT",
+      "country_name": "Austria",
+      "city": "Vienna",
+      "checks_up": 327,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-13T04:12:04Z"
+    }
+  ]
+}
