@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "202.237.174.1",
+      "ip": "202.237.174.1",
+      "port": 80,
+      "delay": 500,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "checks_up": 729,
+      "checks_down": 5,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 99,
+      "last_seen": "2026-08-19T03:01:14Z"
+    }
+  ]
+}

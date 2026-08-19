@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "206.238.236.82",
-      "ip": "206.238.236.82",
+      "host": "206.238.237.220",
+      "ip": "206.238.237.220",
       "port": 80,
       "delay": 20,
       "country_code": "SG",
       "country_name": "Singapore",
       "city": "Singapore",
-      "checks_up": 416,
-      "checks_down": 50,
+      "checks_up": 988,
+      "checks_down": 63,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,40 +19,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-08-18T03:02:04Z"
+      "uptime": 94,
+      "last_seen": "2026-08-19T03:02:02Z"
     },
     {
-      "host": "206.238.236.64",
-      "ip": "206.238.236.64",
+      "host": "206.238.238.189",
+      "ip": "206.238.238.189",
       "port": 80,
       "delay": 20,
       "country_code": "SG",
       "country_name": "Singapore",
       "city": "Singapore",
-      "checks_up": 416,
-      "checks_down": 50,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-08-18T03:02:03Z"
-    },
-    {
-      "host": "206.238.237.207",
-      "ip": "206.238.237.207",
-      "port": 80,
-      "delay": 20,
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "city": "Singapore",
-      "checks_up": 755,
+      "checks_up": 372,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -64,7 +42,29 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-18T03:01:04Z"
+      "last_seen": "2026-08-19T03:02:02Z"
+    },
+    {
+      "host": "206.238.239.81",
+      "ip": "206.238.239.81",
+      "port": 80,
+      "delay": 20,
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "city": "Singapore",
+      "checks_up": 246,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-19T03:02:02Z"
     }
   ]
 }

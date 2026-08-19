@@ -1,1 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+192.252.208.70,14282,US,United States,,,,,,SOCKS4|SOCKS5,Elite,52,360,2026-08-19T03:02:10Z
