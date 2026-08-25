@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "host": "185.193.31.10",
-      "ip": "185.193.31.10",
+      "host": "154.197.75.40",
+      "ip": "154.197.75.40",
       "port": 80,
       "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
+      "country_code": "SC",
+      "country_name": "Seychelles",
       "checks_up": 415,
       "checks_down": 0,
       "anon": 3,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-24T03:06:05Z"
+      "last_seen": "2026-08-25T03:06:03Z"
     }
   ]
 }

@@ -1,14 +1,5 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-31.12.75.8,80,RU,Russian Federation,,,,,,HTTP,Anonymous,98,20,2026-08-24T03:06:05Z
-185.148.106.211,80,RU,Russian Federation,,,,,,HTTP,Anonymous,99,20,2026-08-24T03:06:05Z
-45.67.215.199,80,RU,Russian Federation,Novosibirsk,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:05Z
-185.148.107.255,80,RU,Russian Federation,,,,,,HTTP,Anonymous,93,20,2026-08-24T03:06:03Z
-31.12.75.190,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-185.148.107.228,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-185.148.106.114,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-45.8.211.141,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-45.8.211.198,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-185.148.105.247,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-45.67.215.233,80,RU,Russian Federation,Novosibirsk,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-185.148.105.180,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
-185.148.106.86,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-24T03:06:03Z
+185.148.104.222,80,RU,Russian Federation,,,,,,HTTP,Anonymous,99,20,2026-08-25T03:06:03Z
+45.67.215.240,80,RU,Russian Federation,Novosibirsk,,,,,HTTP,Anonymous,100,20,2026-08-25T03:06:03Z
+45.67.215.111,80,RU,Russian Federation,Novosibirsk,,,,,HTTP,Anonymous,100,20,2026-08-25T03:06:03Z
+185.148.106.192,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-25T03:06:02Z
