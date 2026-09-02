@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "181.214.1.2",
-      "ip": "181.214.1.2",
+      "host": "102.177.176.30",
+      "ip": "102.177.176.30",
       "port": 80,
       "delay": 20,
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "checks_up": 488,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 529,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,15 +19,15 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-02T06:56:04Z"
+      "last_seen": "2026-09-02T06:56:03Z"
     },
     {
-      "host": "181.214.1.100",
-      "ip": "181.214.1.100",
+      "host": "102.177.176.80",
+      "ip": "102.177.176.80",
       "port": 80,
       "delay": 20,
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "checks_up": 482,
       "checks_down": 0,
       "anon": 3,

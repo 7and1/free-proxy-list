@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "27.109.158.122",
+      "ip": "27.109.158.122",
+      "port": 80,
+      "delay": 860,
+      "country_code": "MO",
+      "country_name": "Macau",
+      "checks_up": 873,
+      "checks_down": 50,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 94,
+      "last_seen": "2026-09-02T06:56:04Z"
+    }
+  ]
+}
