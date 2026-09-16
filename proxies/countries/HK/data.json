@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "62.72.166.109",
-      "ip": "62.72.166.109",
+      "host": "154.92.9.91",
+      "ip": "154.92.9.91",
       "port": 80,
       "delay": 20,
-      "country_code": "JO",
-      "country_name": "Jordan",
-      "checks_up": 587,
-      "checks_down": 0,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "checks_up": 593,
+      "checks_down": 1,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-16T07:32:04Z"
+      "uptime": 99,
+      "last_seen": "2026-09-16T07:32:03Z"
     }
   ]
 }
