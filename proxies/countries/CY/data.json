@@ -1,13 +1,14 @@
 {
   "data": [
     {
-      "host": "195.85.23.229",
-      "ip": "195.85.23.229",
+      "host": "154.92.9.44",
+      "ip": "154.92.9.44",
       "port": 80,
-      "delay": 0,
-      "country_code": "CZ",
-      "country_name": "Czech Republic",
-      "checks_up": 782,
+      "delay": 20,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "city": "Nicosia",
+      "checks_up": 1142,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +20,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-17T07:32:04Z"
+      "last_seen": "2026-09-17T07:32:03Z"
     }
   ]
 }

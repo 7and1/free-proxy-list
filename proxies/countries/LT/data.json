@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "93.93.61.153",
+      "ip": "93.93.61.153",
+      "port": 1080,
+      "delay": 1080,
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "city": "Vilnius",
+      "checks_up": 77,
+      "checks_down": 153,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 33,
+      "last_seen": "2026-09-17T07:33:00Z"
+    }
+  ]
+}
