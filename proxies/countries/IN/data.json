@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "119.235.50.78",
+      "ip": "119.235.50.78",
+      "port": 4153,
+      "delay": 3440,
+      "country_code": "IN",
+      "country_name": "India",
+      "checks_up": 0,
+      "checks_down": 4,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:01:12Z",
+      "last_checked": "2026-11-25T10:56:16Z",
+      "health_score": 0
+    }
+  ]
+}

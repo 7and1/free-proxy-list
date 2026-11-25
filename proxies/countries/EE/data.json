@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "185.157.111.3",
+      "ip": "185.157.111.3",
+      "port": 5678,
+      "delay": 2720,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "city": "Tartu",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T09:17:11Z",
+      "last_checked": "2026-11-25T10:55:03Z",
+      "health_score": 0
+    }
+  ]
+}

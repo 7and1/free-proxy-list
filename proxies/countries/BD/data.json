@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "host": "123.200.15.226",
+      "ip": "123.200.15.226",
+      "port": 1080,
+      "delay": 2340,
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T09:51:14Z",
+      "last_checked": "2026-11-25T10:55:03Z",
+      "health_score": 0
+    },
+    {
+      "host": "182.160.101.193",
+      "ip": "182.160.101.193",
+      "port": 9090,
+      "delay": 5100,
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "city": "Dhaka",
+      "checks_up": 0,
+      "checks_down": 2,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:33:15Z",
+      "last_checked": "2026-11-25T10:53:17Z",
+      "health_score": 0
+    }
+  ]
+}

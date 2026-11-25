@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-190.97.236.129,999,VE,Venezuela,,,,,,HTTP,Elite,100,892,2026-09-16T13:31:14Z
+65.21.252.66,10811,FI,Finland,Helsinki,,,,,SOCKS5,Unknown,50,3300,2026-11-25T08:59:32Z

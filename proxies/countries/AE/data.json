@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "95.81.93.93",
+      "ip": "95.81.93.93",
+      "port": 1080,
+      "delay": 3873,
+      "country_code": "AE",
+      "country_name": "United Arab Emirates",
+      "checks_up": 71,
+      "checks_down": 284,
+      "anon": 0,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 20,
+      "last_seen": "2026-11-25T06:22:22Z",
+      "last_checked": "2026-11-25T10:54:41Z",
+      "health_score": 0
+    }
+  ]
+}

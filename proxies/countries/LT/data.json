@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "81.7.112.174",
+      "ip": "81.7.112.174",
+      "port": 4145,
+      "delay": 700,
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "city": "Elektr?nai",
+      "checks_up": 0,
+      "checks_down": 2,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T08:07:06Z",
+      "last_checked": "2026-11-25T10:53:18Z",
+      "health_score": 0
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "160.119.159.98",
+      "ip": "160.119.159.98",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "MZ",
+      "country_name": "Mozambique",
+      "checks_up": 276,
+      "checks_down": 182,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 60,
+      "last_seen": "2026-11-25T11:07:14Z",
+      "last_checked": "",
+      "health_score": 0
+    }
+  ]
+}

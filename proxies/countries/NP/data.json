@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "host": "124.41.213.174",
+      "ip": "124.41.213.174",
+      "port": 5678,
+      "delay": 4480,
+      "country_code": "NP",
+      "country_name": "Nepal",
+      "city": "Kathmandu",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T09:19:18Z",
+      "last_checked": "2026-11-25T10:55:03Z",
+      "health_score": 0
+    },
+    {
+      "host": "182.93.75.162",
+      "ip": "182.93.75.162",
+      "port": 1080,
+      "delay": 2440,
+      "country_code": "NP",
+      "country_name": "Nepal",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T09:19:07Z",
+      "last_checked": "2026-11-25T10:55:03Z",
+      "health_score": 0
+    },
+    {
+      "host": "103.154.47.205",
+      "ip": "103.154.47.205",
+      "port": 1080,
+      "delay": 1400,
+      "country_code": "NP",
+      "country_name": "Nepal",
+      "checks_up": 0,
+      "checks_down": 2,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T08:07:09Z",
+      "last_checked": "2026-11-25T11:03:24Z",
+      "health_score": 0
+    },
+    {
+      "host": "110.34.2.225",
+      "ip": "110.34.2.225",
+      "port": 1080,
+      "delay": 1540,
+      "country_code": "NP",
+      "country_name": "Nepal",
+      "city": "Nepalgunj",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:43:15Z",
+      "last_checked": "2026-11-25T10:55:03Z",
+      "health_score": 0
+    },
+    {
+      "host": "124.41.196.3",
+      "ip": "124.41.196.3",
+      "port": 1080,
+      "delay": 2420,
+      "country_code": "NP",
+      "country_name": "Nepal",
+      "city": "Patan",
+      "checks_up": 0,
+      "checks_down": 4,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:01:08Z",
+      "last_checked": "2026-11-25T10:56:16Z",
+      "health_score": 0
+    }
+  ]
+}

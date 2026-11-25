@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+89.43.31.134,3128,TR,Turkey,,,,,,HTTPS,Unknown,0,920,2026-11-25T10:14:32Z

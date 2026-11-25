@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "181.209.98.106",
+      "ip": "181.209.98.106",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "city": "Victoria",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T08:07:22Z",
+      "last_checked": "2026-11-25T10:55:03Z",
+      "health_score": 0
+    }
+  ]
+}

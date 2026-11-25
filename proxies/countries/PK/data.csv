@@ -1,0 +1,4 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+58.65.142.254,8125,PK,Pakistan,Faisalabad,,,,,SOCKS4,Unknown,55,2420,2026-11-25T11:07:12Z
+202.142.169.142,1080,PK,Pakistan,Lahore,,,,,SOCKS4,Unknown,0,5100,2026-11-25T06:43:19Z
+202.142.170.115,1080,PK,Pakistan,Lahore,,,,,SOCKS4,Unknown,0,3240,2026-11-25T06:43:17Z

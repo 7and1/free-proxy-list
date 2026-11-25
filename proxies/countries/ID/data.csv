@@ -1,0 +1,13 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+103.26.209.206,1080,ID,Indonesia,Jakarta,,,,,SOCKS4,Unknown,56,1100,2026-11-25T11:07:18Z
+36.89.126.123,1080,ID,Indonesia,Central Jakarta,,,,,SOCKS4,Unknown,0,4320,2026-11-25T09:19:15Z
+112.78.138.164,5678,ID,Indonesia,,,,,,SOCKS4,Unknown,0,3140,2026-11-25T09:19:15Z
+103.158.13.191,100,ID,Indonesia,Bojonegoro,,,,,SOCKS4,Unknown,0,2440,2026-11-25T08:07:16Z
+163.128.137.239,1080,ID,Indonesia,,,,,,SOCKS4,Unknown,0,2160,2026-11-25T08:07:14Z
+36.95.189.165,5678,ID,Indonesia,South Tangerang,,,,,SOCKS4,Unknown,0,3280,2026-11-25T08:07:12Z
+202.146.230.102,1080,ID,Indonesia,,,,,,SOCKS4,Unknown,0,1160,2026-11-25T08:07:12Z
+103.23.100.9,1080,ID,Indonesia,,,,,,SOCKS4,Unknown,0,1100,2026-11-25T06:43:14Z
+103.173.139.214,8080,ID,Indonesia,Semarang,,,,,SOCKS4,Unknown,0,1120,2026-11-25T06:23:08Z
+103.154.76.90,12,ID,Indonesia,,,,,,SOCKS4,Unknown,0,2220,2026-11-25T05:19:14Z
+103.191.58.110,8080,ID,Indonesia,,,,,,HTTP,Unknown,24,7761,2026-11-24T10:45:24Z
+198.15.30.198,3125,ID,Indonesia,Pamekasan,,,,,HTTP,Unknown,35,3128,2026-11-24T08:12:14Z

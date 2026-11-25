@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "host": "118.145.156.224",
+      "ip": "118.145.156.224",
+      "port": 7890,
+      "delay": 1500,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T10:14:27Z",
+      "last_checked": "2026-11-25T10:57:51Z",
+      "health_score": 0
+    },
+    {
+      "host": "110.242.70.68",
+      "ip": "110.242.70.68",
+      "port": 443,
+      "delay": 5100,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T09:41:22Z",
+      "last_checked": "2026-11-25T11:06:54Z",
+      "health_score": 0
+    },
+    {
+      "host": "27.115.33.94",
+      "ip": "27.115.33.94",
+      "port": 4153,
+      "delay": 3620,
+      "country_code": "CN",
+      "country_name": "China",
+      "city": "Shanghai",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:47:16Z",
+      "last_checked": "2026-11-25T10:57:41Z",
+      "health_score": 0
+    }
+  ]
+}

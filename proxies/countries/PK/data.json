@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "host": "58.65.142.254",
+      "ip": "58.65.142.254",
+      "port": 8125,
+      "delay": 2420,
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "city": "Faisalabad",
+      "checks_up": 325,
+      "checks_down": 257,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 55,
+      "last_seen": "2026-11-25T11:07:12Z",
+      "last_checked": "",
+      "health_score": 0
+    },
+    {
+      "host": "202.142.169.142",
+      "ip": "202.142.169.142",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "city": "Lahore",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:43:19Z",
+      "last_checked": "2026-11-25T10:57:41Z",
+      "health_score": 0
+    },
+    {
+      "host": "202.142.170.115",
+      "ip": "202.142.170.115",
+      "port": 1080,
+      "delay": 3240,
+      "country_code": "PK",
+      "country_name": "Pakistan",
+      "city": "Lahore",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:43:17Z",
+      "last_checked": "2026-11-25T10:55:04Z",
+      "health_score": 0
+    }
+  ]
+}

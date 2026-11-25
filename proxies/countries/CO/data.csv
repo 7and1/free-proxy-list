@@ -1,0 +1,3 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+181.57.178.146,1080,CO,Colombia,Bogot?,,,,,SOCKS4,Unknown,0,4560,2026-11-25T10:47:17Z
+181.143.31.242,1080,CO,Colombia,Medell?n,,,,,SOCKS4,Unknown,0,460,2026-11-25T09:37:05Z

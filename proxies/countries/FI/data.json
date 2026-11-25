@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "65.21.252.66",
+      "ip": "65.21.252.66",
+      "port": 10811,
+      "delay": 3300,
+      "country_code": "FI",
+      "country_name": "Finland",
+      "city": "Helsinki",
+      "checks_up": 3808,
+      "checks_down": 3741,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 50,
+      "last_seen": "2026-11-25T08:59:32Z",
+      "last_checked": "2026-11-25T11:06:03Z",
+      "health_score": 0
+    }
+  ]
+}

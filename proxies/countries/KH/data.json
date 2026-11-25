@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "host": "103.197.242.106",
+      "ip": "103.197.242.106",
+      "port": 1080,
+      "delay": 4180,
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "checks_up": 0,
+      "checks_down": 4,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:23:14Z",
+      "last_checked": "2026-11-25T10:56:15Z",
+      "health_score": 0
+    },
+    {
+      "host": "116.212.156.72",
+      "ip": "116.212.156.72",
+      "port": 1080,
+      "delay": 3260,
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "city": "Phnom Penh",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T06:07:16Z",
+      "last_checked": "2026-11-25T11:06:48Z",
+      "health_score": 0
+    }
+  ]
+}

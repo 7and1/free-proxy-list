@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "host": "197.157.195.154",
+      "ip": "197.157.195.154",
+      "port": 1080,
+      "delay": 1520,
+      "country_code": "BI",
+      "country_name": "Burundi",
+      "city": "Mabanda",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T09:19:11Z",
+      "last_checked": "2026-11-25T10:55:04Z",
+      "health_score": 0
+    },
+    {
+      "host": "197.157.194.10",
+      "ip": "197.157.194.10",
+      "port": 1080,
+      "delay": 3620,
+      "country_code": "BI",
+      "country_name": "Burundi",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-25T05:41:20Z",
+      "last_checked": "2026-11-25T11:00:38Z",
+      "health_score": 0
+    }
+  ]
+}
