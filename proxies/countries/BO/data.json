@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "190.104.26.227",
+      "ip": "190.104.26.227",
+      "port": 33638,
+      "delay": 1660,
+      "country_code": "BO",
+      "country_name": "Bolivia",
+      "city": "La Paz",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T09:05:09Z",
+      "last_checked": "2026-11-27T10:27:50Z",
+      "health_score": 0
+    }
+  ]
+}

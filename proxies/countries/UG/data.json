@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "196.0.111.186",
+      "ip": "196.0.111.186",
+      "port": 46048,
+      "delay": 2380,
+      "country_code": "UG",
+      "country_name": "Uganda",
+      "city": "Kampala",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T05:01:11Z",
+      "last_checked": "2026-11-27T10:45:38Z",
+      "health_score": 0
+    }
+  ]
+}

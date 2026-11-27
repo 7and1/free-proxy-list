@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "109.61.117.11",
+      "ip": "109.61.117.11",
+      "port": 1080,
+      "delay": 1720,
+      "country_code": "HU",
+      "country_name": "Hungary",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T09:05:08Z",
+      "last_checked": "2026-11-27T10:27:50Z",
+      "health_score": 0
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+95.140.118.34,1080,RS,Serbia,Belgrade,,,,,SOCKS4,Unknown,0,1860,2026-11-27T09:03:08Z

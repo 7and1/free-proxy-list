@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-113.161.185.160,1080,VN,Vietnam,M? Tho,,,,,SOCKS4,Unknown,0,1200,2026-11-25T09:37:10Z
-171.249.163.170,1080,VN,Vietnam,Ho Chi Minh City,,,,,SOCKS4,Unknown,0,2300,2026-11-25T09:19:09Z
+171.249.163.170,1080,VN,Vietnam,Ho Chi Minh City,,,,,SOCKS4,Unknown,0,2200,2026-11-27T05:01:11Z

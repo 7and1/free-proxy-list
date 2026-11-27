@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+190.13.147.241,5678,CL,Chile,,,,,,SOCKS4,Unknown,0,960,2026-11-27T07:43:16Z

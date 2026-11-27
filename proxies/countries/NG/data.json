@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "102.36.231.77",
+      "ip": "102.36.231.77",
+      "port": 1080,
+      "delay": 4220,
+      "country_code": "NG",
+      "country_name": "Nigeria",
+      "checks_up": 0,
+      "checks_down": 4,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T09:27:12Z",
+      "last_checked": "2026-11-27T10:34:00Z",
+      "health_score": 0
+    }
+  ]
+}

@@ -1,6 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-103.83.36.1,5678,US,United States,Asheville,,,,,SOCKS4,Unknown,0,2320,2026-11-25T10:22:06Z
-50.233.111.162,32100,US,United States,Memphis,,,,,SOCKS4,Unknown,0,260,2026-11-25T10:05:11Z
-155.117.120.32,1080,US,United States,Buffalo,,,,,SOCKS4,Unknown,0,3360,2026-11-25T09:16:05Z
-64.188.29.191,8080,US,United States,Los Angeles,,,,,HTTP,Unknown,0,280,2026-11-25T07:51:51Z
-47.176.213.210,39593,US,United States,West Covina,,,,,SOCKS4,Unknown,0,1320,2026-11-25T06:29:08Z
+64.188.29.191,8080,US,United States,Los Angeles,,,,,HTTP,Unknown,0,220,2026-11-27T10:11:03Z
+198.0.198.132,54321,US,United States,Penngrove,,,,,SOCKS4,Unknown,0,1440,2026-11-27T09:03:16Z
+162.214.3.183,3128,US,United States,,,,,,HTTPS,Unknown,0,1120,2026-11-27T06:35:16Z

@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "123.200.15.226",
-      "ip": "123.200.15.226",
+      "host": "103.167.40.54",
+      "ip": "103.167.40.54",
       "port": 1080,
       "delay": 2340,
       "country_code": "BD",
       "country_name": "Bangladesh",
       "checks_up": 0,
-      "checks_down": 1,
+      "checks_down": 3,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -21,34 +21,33 @@
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
       "uptime": 0,
-      "last_seen": "2026-11-25T09:51:14Z",
-      "last_checked": "2026-11-25T10:55:03Z",
+      "last_seen": "2026-11-27T09:03:11Z",
+      "last_checked": "2026-11-27T10:42:52Z",
       "health_score": 0
     },
     {
-      "host": "182.160.101.193",
-      "ip": "182.160.101.193",
-      "port": 9090,
-      "delay": 5100,
+      "host": "202.5.47.60",
+      "ip": "202.5.47.60",
+      "port": 1080,
+      "delay": 5829,
       "country_code": "BD",
       "country_name": "Bangladesh",
-      "city": "Dhaka",
-      "checks_up": 0,
-      "checks_down": 2,
-      "anon": 4,
-      "http": 0,
+      "checks_up": 752,
+      "checks_down": 3617,
+      "anon": 0,
+      "http": 1,
       "ssl": 0,
-      "socks4": 1,
+      "socks4": 0,
       "socks5": 0,
       "protocols": [
-        "SOCKS4"
+        "HTTP"
       ],
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 0,
-      "last_seen": "2026-11-25T06:33:15Z",
-      "last_checked": "2026-11-25T10:53:17Z",
+      "reported_anonymity_level": "Transparent",
+      "uptime": 17,
+      "last_seen": "2026-11-27T03:05:20Z",
+      "last_checked": "2026-11-27T10:36:47Z",
       "health_score": 0
     }
   ]

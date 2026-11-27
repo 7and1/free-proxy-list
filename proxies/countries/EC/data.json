@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "186.101.49.211",
+      "ip": "186.101.49.211",
+      "port": 8080,
+      "delay": 6155,
+      "country_code": "EC",
+      "country_name": "Ecuador",
+      "city": "Guayaquil",
+      "checks_up": 1279,
+      "checks_down": 3830,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 25,
+      "last_seen": "2026-11-26T15:15:55Z",
+      "last_checked": "2026-11-27T10:32:30Z",
+      "health_score": 0
+    }
+  ]
+}

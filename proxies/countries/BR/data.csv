@@ -1,6 +1,6 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-179.189.248.109,5432,BR,Brazil,Recife,,,,,SOCKS4,Unknown,0,3140,2026-11-25T09:19:14Z
-186.251.253.53,31337,BR,Brazil,Carazinho,,,,,SOCKS4,Unknown,0,4920,2026-11-25T06:39:19Z
-179.189.243.245,5432,BR,Brazil,Recife,,,,,SOCKS4,Unknown,0,1080,2026-11-25T06:33:11Z
-177.85.65.177,4153,BR,Brazil,Sim?es Filho,,,,,SOCKS4,Unknown,0,660,2026-11-25T06:01:06Z
-177.136.124.45,56113,BR,Brazil,Salvador,,,,,SOCKS4,Unknown,0,1800,2026-11-25T05:31:15Z
+138.255.240.66,40736,BR,Brazil,,,,,,SOCKS4,Unknown,0,3020,2026-11-27T09:05:06Z
+179.189.249.249,5432,BR,Brazil,Recife,,,,,SOCKS4,Unknown,0,3100,2026-11-27T09:03:07Z
+179.189.219.98,4145,BR,Brazil,,,,,,SOCKS4,Unknown,0,820,2026-11-27T07:49:11Z
+167.250.137.129,1080,BR,Brazil,Pedra Branca,,,,,SOCKS4,Unknown,0,640,2026-11-27T07:36:28Z
+177.136.124.45,56113,BR,Brazil,Salvador,,,,,SOCKS4,Unknown,0,2840,2026-11-27T06:57:13Z

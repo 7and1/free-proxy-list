@@ -4,11 +4,11 @@
       "host": "160.119.159.98",
       "ip": "160.119.159.98",
       "port": 1080,
-      "delay": 5100,
+      "delay": 2320,
       "country_code": "MZ",
       "country_name": "Mozambique",
-      "checks_up": 276,
-      "checks_down": 182,
+      "checks_up": 0,
+      "checks_down": 1,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -20,9 +20,9 @@
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
-      "uptime": 60,
-      "last_seen": "2026-11-25T11:07:14Z",
-      "last_checked": "",
+      "uptime": 0,
+      "last_seen": "2026-11-27T05:53:18Z",
+      "last_checked": "2026-11-27T10:45:38Z",
       "health_score": 0
     }
   ]

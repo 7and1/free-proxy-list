@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "179.27.86.36",
+      "ip": "179.27.86.36",
+      "port": 4153,
+      "delay": 2920,
+      "country_code": "UY",
+      "country_name": "Uruguay",
+      "city": "Montevideo",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T08:51:16Z",
+      "last_checked": "2026-11-27T10:38:11Z",
+      "health_score": 0
+    }
+  ]
+}

@@ -1,4 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-122.3.132.132,8082,PH,Philippines,Malate,,,,,HTTP,Unknown,22,2453,2026-11-24T18:08:23Z
-180.191.153.134,8181,PH,Philippines,Makati City,,,,,HTTP,Unknown,31,2367,2026-11-24T18:03:58Z
-180.191.231.14,8082,PH,Philippines,Talisay City,,,,,HTTP,Unknown,46,2920,2026-11-24T11:53:31Z

@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "host": "119.235.50.78",
-      "ip": "119.235.50.78",
-      "port": 4153,
-      "delay": 3440,
+      "host": "123.253.124.28",
+      "ip": "123.253.124.28",
+      "port": 5678,
+      "delay": 2300,
       "country_code": "IN",
       "country_name": "India",
+      "city": "Udaipur",
       "checks_up": 0,
-      "checks_down": 4,
+      "checks_down": 2,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -21,8 +22,33 @@
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
       "uptime": 0,
-      "last_seen": "2026-11-25T06:01:12Z",
-      "last_checked": "2026-11-25T10:56:16Z",
+      "last_seen": "2026-11-27T09:03:08Z",
+      "last_checked": "2026-11-27T10:46:15Z",
+      "health_score": 0
+    },
+    {
+      "host": "119.235.50.78",
+      "ip": "119.235.50.78",
+      "port": 4153,
+      "delay": 3400,
+      "country_code": "IN",
+      "country_name": "India",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T08:51:21Z",
+      "last_checked": "2026-11-27T10:30:41Z",
       "health_score": 0
     }
   ]

@@ -1,5 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-203.156.190.5,5678,TH,Thailand,,,,,,SOCKS4,Unknown,0,4420,2026-11-25T10:29:14Z
-203.172.120.179,1080,TH,Thailand,,,,,,SOCKS4,Unknown,0,5100,2026-11-25T06:43:24Z
-183.89.217.91,4153,TH,Thailand,Hang Dong,,,,,SOCKS4,Unknown,0,1220,2026-11-25T06:33:11Z
-113.53.29.228,13629,TH,Thailand,,,,,,SOCKS4,Unknown,0,4320,2026-11-25T06:17:15Z
+203.156.190.5,5678,TH,Thailand,,,,,,SOCKS4,Unknown,0,5100,2026-11-27T05:45:19Z
+203.172.120.179,1080,TH,Thailand,,,,,,SOCKS4,Unknown,0,2480,2026-11-27T05:07:07Z
+171.4.85.65,5678,TH,Thailand,,,,,,SOCKS4,Unknown,0,1240,2026-11-27T05:05:06Z

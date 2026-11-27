@@ -1,2 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-89.43.31.134,3128,TR,Turkey,,,,,,HTTPS,Unknown,0,920,2026-11-25T10:14:32Z
+176.235.182.90,1080,TR,Turkey,Gaziantep,,,,,SOCKS4,Unknown,0,820,2026-11-27T09:03:05Z
+88.247.31.164,4153,TR,Turkey,Kahramanmara?,,,,,SOCKS4,Unknown,0,800,2026-11-27T08:39:05Z
+89.43.31.134,3128,TR,Turkey,,,,,,HTTPS,Unknown,0,860,2026-11-27T05:01:15Z

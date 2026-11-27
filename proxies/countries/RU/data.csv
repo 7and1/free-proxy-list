@@ -1,3 +1,7 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-91.225.77.138,1080,RU,Russian Federation,,,,,,SOCKS4,Unknown,0,800,2026-11-25T09:57:16Z
-37.193.125.68,1090,RU,Russian Federation,Novosibirsk,,,,,SOCKS4,Unknown,0,4120,2026-11-25T09:19:08Z
+91.233.169.23,8081,RU,Russian Federation,St Petersburg,,,,,HTTP,Unknown,0,2780,2026-11-27T09:39:08Z
+109.235.188.171,1080,RU,Russian Federation,Sochi,,,,,SOCKS4,Unknown,0,880,2026-11-27T09:35:05Z
+89.151.134.157,3629,RU,Russian Federation,Cheboksary,,,,,SOCKS4,Unknown,0,4720,2026-11-27T08:47:24Z
+91.225.77.138,1080,RU,Russian Federation,,,,,,SOCKS4,Unknown,0,800,2026-11-27T07:36:37Z
+217.14.192.183,1080,RU,Russian Federation,,,,,,SOCKS4,Unknown,0,840,2026-11-27T07:36:27Z
+109.195.123.200,1080,RU,Russian Federation,,,,,,SOCKS5,Unknown,22,3175,2026-11-25T13:53:22Z

@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "host": "195.138.65.34",
+      "ip": "195.138.65.34",
+      "port": 5678,
+      "delay": 760,
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "city": "Odesa",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T07:36:29Z",
+      "last_checked": "2026-11-27T10:38:11Z",
+      "health_score": 0
+    },
+    {
+      "host": "46.150.9.111",
+      "ip": "46.150.9.111",
+      "port": 8123,
+      "delay": 740,
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "city": "Balakliya",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T07:36:27Z",
+      "last_checked": "2026-11-27T10:30:51Z",
+      "health_score": 0
+    }
+  ]
+}

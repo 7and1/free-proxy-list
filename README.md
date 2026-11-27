@@ -7,19 +7,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Updated-Daily-16a34a" alt="Updated daily">
   <a href="https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/all/data.txt">
-    <img src="https://img.shields.io/badge/all-18672-2563eb" alt="All proxies">
+    <img src="https://img.shields.io/badge/all-18895-2563eb" alt="All proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/http/data.txt">
-    <img src="https://img.shields.io/badge/http-14474-2563eb" alt="HTTP proxies">
+    <img src="https://img.shields.io/badge/http-14871-2563eb" alt="HTTP proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/https/data.txt">
-    <img src="https://img.shields.io/badge/https-334-2563eb" alt="HTTPS proxies">
+    <img src="https://img.shields.io/badge/https-333-2563eb" alt="HTTPS proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks4/data.txt">
-    <img src="https://img.shields.io/badge/socks4-68-2563eb" alt="SOCKS4 proxies">
+    <img src="https://img.shields.io/badge/socks4-65-2563eb" alt="SOCKS4 proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks5/data.txt">
-    <img src="https://img.shields.io/badge/socks5-4112-2563eb" alt="SOCKS5 proxies">
+    <img src="https://img.shields.io/badge/socks5-3937-2563eb" alt="SOCKS5 proxies">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 Daily snapshot of public proxy endpoints exported from Socks5Proxies.com.
 
-> Latest snapshot: **18672** proxies from **28** countries at **Nov 26, 2026, 10:44 AM**.
+> Latest snapshot: **18895** proxies from **35** countries at **Nov 27, 2026, 10:44 AM**.
 
 ## Why this repo exists
 
@@ -47,12 +47,12 @@ These files are served from jsDelivr on top of this repository.
 
 | Type | Count | JSON | TXT | CSV |
 | --- | ---: | --- | --- | --- |
-| All Proxies | 18672 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/all/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/all/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/all/data.csv) |
-| HTTP Proxies | 14474 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/http/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/http/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/http/data.csv) |
-| HTTPS Proxies | 334 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/https/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/https/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/https/data.csv) |
-| SOCKS4 Proxies | 68 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks4/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks4/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks4/data.csv) |
-| SOCKS5 Proxies | 4112 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks5/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks5/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks5/data.csv) |
-| US Proxies | 5 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/US/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/US/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/US/data.csv) |
+| All Proxies | 18895 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/all/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/all/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/all/data.csv) |
+| HTTP Proxies | 14871 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/http/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/http/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/http/data.csv) |
+| HTTPS Proxies | 333 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/https/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/https/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/https/data.csv) |
+| SOCKS4 Proxies | 65 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks4/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks4/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks4/data.csv) |
+| SOCKS5 Proxies | 3937 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks5/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks5/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/protocols/socks5/data.csv) |
+| US Proxies | 3 | [data.json](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/US/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/US/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/newbie-learn-coding/free-proxy-list@main/proxies/countries/US/data.csv) |
 
 More country splits: [browse `proxies/countries/`](https://github.com/newbie-learn-coding/free-proxy-list/tree/main/proxies/countries)
 

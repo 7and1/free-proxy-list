@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "190.13.147.241",
+      "ip": "190.13.147.241",
+      "port": 5678,
+      "delay": 960,
+      "country_code": "CL",
+      "country_name": "Chile",
+      "checks_up": 0,
+      "checks_down": 2,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T07:43:16Z",
+      "last_checked": "2026-11-27T10:46:15Z",
+      "health_score": 0
+    }
+  ]
+}

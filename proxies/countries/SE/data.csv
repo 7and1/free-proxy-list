@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+188.150.229.60,5678,SE,Sweden,Malm?,,,,,SOCKS4,Unknown,0,2700,2026-11-27T09:05:06Z

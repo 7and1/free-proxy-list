@@ -1,14 +1,66 @@
 {
   "data": [
     {
+      "host": "176.235.182.90",
+      "ip": "176.235.182.90",
+      "port": 1080,
+      "delay": 820,
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "city": "Gaziantep",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T09:03:05Z",
+      "last_checked": "2026-11-27T10:42:52Z",
+      "health_score": 0
+    },
+    {
+      "host": "88.247.31.164",
+      "ip": "88.247.31.164",
+      "port": 4153,
+      "delay": 800,
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "city": "Kahramanmara?",
+      "checks_up": 0,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T08:39:05Z",
+      "last_checked": "2026-11-27T10:27:50Z",
+      "health_score": 0
+    },
+    {
       "host": "89.43.31.134",
       "ip": "89.43.31.134",
       "port": 3128,
-      "delay": 920,
+      "delay": 860,
       "country_code": "TR",
       "country_name": "Turkey",
       "checks_up": 0,
-      "checks_down": 1,
+      "checks_down": 2,
       "anon": 4,
       "http": 0,
       "ssl": 1,
@@ -21,8 +73,8 @@
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
       "uptime": 0,
-      "last_seen": "2026-11-25T10:14:32Z",
-      "last_checked": "2026-11-25T10:55:30Z",
+      "last_seen": "2026-11-27T05:01:15Z",
+      "last_checked": "2026-11-27T10:46:22Z",
       "health_score": 0
     }
   ]

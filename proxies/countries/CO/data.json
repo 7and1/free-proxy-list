@@ -1,36 +1,10 @@
 {
   "data": [
     {
-      "host": "181.57.178.146",
-      "ip": "181.57.178.146",
-      "port": 1080,
-      "delay": 4560,
-      "country_code": "CO",
-      "country_name": "Colombia",
-      "city": "Bogot?",
-      "checks_up": 0,
-      "checks_down": 3,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 0,
-      "protocols": [
-        "SOCKS4"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 0,
-      "last_seen": "2026-11-25T10:47:17Z",
-      "last_checked": "2026-11-25T11:06:50Z",
-      "health_score": 0
-    },
-    {
       "host": "181.143.31.242",
       "ip": "181.143.31.242",
       "port": 1080,
-      "delay": 460,
+      "delay": 2520,
       "country_code": "CO",
       "country_name": "Colombia",
       "city": "Medell?n",
@@ -48,8 +22,8 @@
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
       "uptime": 0,
-      "last_seen": "2026-11-25T09:37:05Z",
-      "last_checked": "2026-11-25T11:10:06Z",
+      "last_seen": "2026-11-27T09:32:11Z",
+      "last_checked": "2026-11-27T10:39:18Z",
       "health_score": 0
     }
   ]

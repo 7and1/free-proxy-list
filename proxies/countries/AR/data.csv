@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-181.209.98.106,1080,AR,Argentina,Victoria,,,,,SOCKS4,Unknown,0,5100,2026-11-25T08:07:22Z

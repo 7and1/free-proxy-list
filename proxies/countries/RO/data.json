@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "81.12.157.98",
+      "ip": "81.12.157.98",
+      "port": 5678,
+      "delay": 4900,
+      "country_code": "RO",
+      "country_name": "Romania",
+      "city": "Miercurea-Ciuc",
+      "checks_up": 0,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 0,
+      "last_seen": "2026-11-27T07:49:14Z",
+      "last_checked": "2026-11-27T10:30:41Z",
+      "health_score": 0
+    }
+  ]
+}
